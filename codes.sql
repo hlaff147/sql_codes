@@ -6,3 +6,7 @@ CREATE TABLE student (
     PRIMARY KEY(student_id)
 );
 
+-- Describe table student
+DESCRIBE student
+
+
