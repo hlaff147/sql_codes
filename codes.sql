@@ -9,4 +9,5 @@ CREATE TABLE student (
 -- Describe table student
 DESCRIBE student
 
-
+-- Select all from table student
+SELECT * FROM student;
